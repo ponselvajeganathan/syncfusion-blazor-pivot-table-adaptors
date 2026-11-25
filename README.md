@@ -91,8 +91,8 @@ To confirm successful data binding:
 You can also refer the below resources to know more details about Syncfusion Blazor Pivot Table.
 
 * [Demo](https://blazor.syncfusion.com/demos/pivot-table/overview?theme=fluent2)
-* [Documentation](https://blazor.syncfusion.com/documentation/pivot-table/getting-started)
-* [Connecting to adaptors](https://blazor.syncfusion.com/documentation/pivot-table/connecting-to-adaptors)
+* [Documentation](https://help.syncfusion.com/grid-sdk/blazor/pivot-table/getting-started)
+* [Connecting to adaptors](https://help.syncfusion.com/grid-sdk/blazor/pivot-table/connecting-to-adaptors/url-adaptor)
 
 ## Support and Feedback
 
